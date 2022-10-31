@@ -1,0 +1,1 @@
+tire%pressure = 10
